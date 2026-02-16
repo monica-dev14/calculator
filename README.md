@@ -14,5 +14,5 @@ Users can perform basic arithmetic operations and switch between themes for a be
 - JavaScript
 
 ## live demo
- [View My Project Live 🚀] https://monica-dev14.github.io/calculator/
+ [View My Project Live 🚀] (https://monica-dev14.github.io/calculator/)
 
