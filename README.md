@@ -13,6 +13,6 @@ Users can perform basic arithmetic operations and switch between themes for a be
 - CSS
 - JavaScript
 
-## How to Run
-Open `index.html` in your browser.
+## live demo
+ https://monica-dev14.github.io/calculator/
 
